@@ -11,5 +11,5 @@ jobs:
       with:
         java-version: 1.8
     - name: Build with Maven
-      run: mvn -B package -s settings.xml -Dgithub.user=qqdog1 -Dgithub.password=${{ secrets.GITHUB_TOKEN }} --file pom.xml
+      run: mvn -B package -s settings.xml -Dgithub.user=boxi79 -Dgithub.password=${{ secrets.BSR_TOKEN }} --file pom.xml
  

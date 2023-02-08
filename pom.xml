@@ -32,20 +32,20 @@
 		</dependency>
 	</dependencies>
 	
-	<scm><url>https://maven.pkg.github.com/qqdog1/technical-analysis-core</url></scm>
+	<scm><url>https://maven.pkg.github.com/boxi79/technical-analysis-core</url></scm>
 	
 	<distributionManagement>
 	    <repository>
 			<id>github</id>
 			<name>GitHub OWNER Apache Maven Packages</name>
-			<url>https://maven.pkg.github.com/qqdog1/technical-analysis-core</url>
+			<url>https://maven.pkg.github.com/boxi79/technical-analysis-core</url>
 	   	</repository>
 	</distributionManagement>
 
  	<repositories>
 		<repository>
 			<id>github</id>
-			<url>https://maven.pkg.github.com/qqdog1/file-cache</url>
+			<url>https://maven.pkg.github.com/boxi79/file-cache</url>
 		</repository>
 	</repositories>
 </project>
